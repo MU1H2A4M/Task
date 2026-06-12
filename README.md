@@ -1,4 +1,5 @@
-# Org Console — Admin Dashboard
+> Built by Muhammad — [github.com/MU1H2A4M](https://github.com/MU1H2A4M)# Org Console — Admin Dashboard
+
 
 A small, production-minded admin dashboard where an authenticated admin can
 create organizations of different types, invite members by email, and browse
